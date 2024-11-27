@@ -34,7 +34,7 @@ This script leverages the [pypresence](https://pypi.org/project/pypresence/) lib
 2.Replace the placeholder values in the script.
 
 
-## Usage
-1. Run the script:
-```bash
-python script_name.py
+## License
+This script is open-source and available under the MIT License.
+
+
