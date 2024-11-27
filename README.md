@@ -21,20 +21,20 @@ This script leverages the [pypresence](https://pypi.org/project/pypresence/) lib
    ```bash
    pip install pypresence
 
-Obtain your client ID from your Discord application:
+## Obtain your client ID from your Discord application:
 
-Go to the Discord Developer Portal.
-Create a new application or select an existing one.
-Copy the Client ID from the application settings.
-Add your assets (images) in the "Rich Presence" section of your Discord application settings:
+1. Go to the Discord Developer Portal.
+2. Create a new application or select an existing one.
+3. Copy the Client ID from the application settings.
+4. Add your assets (images) in the "Rich Presence" section of your Discord application settings:
 
-Provide the image name as your_image in the script.
-Add a descriptive tooltip text for large_text.
-Replace the placeholder values in the script:
+## Provide the image name as your_image in the script.
+1.Add a descriptive tooltip text for large_text.
 
-your_clientID with your application's client ID.
-your_image with the name of the uploaded image asset.
-your_text with the desired tooltip text for the image.
-your_Details and your_State with custom strings to display.
-Link1 and Link2 with your desired URLs.
-URL_NAME1 and URL_NAME2 with the button text for each link.
+2.Replace the placeholder values in the script.
+
+
+## Usage
+1. Run the script:
+```bash
+python script_name.py
